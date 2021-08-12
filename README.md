@@ -11,3 +11,5 @@ El archivo con las ubicaciones está en https://docs.google.com/spreadsheets/d/1
 4. Por ultimo, hay que llenar la columna H (ubicación) con el plus code de cada lugar en google maps. Por ejemplo:
 ![image](https://user-images.githubusercontent.com/23301538/126219758-ceaac7d0-9a28-4a81-9f29-9652d0219ea6.png)
  
+#### Otras regiones
+- Usar las hojas de las regiones correspondientes
